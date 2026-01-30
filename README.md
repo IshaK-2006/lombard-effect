@@ -29,7 +29,7 @@ The analysis emphasizes **relative changes** in vocal output rather than absolut
 
 ## Experimental Methodology (Summary)
 
-- Six participants were exposed to broadband white noise at multiple sound pressure levels.
+- Six participants were exposed to broadband white noise at multiple sound pressure levels (Participant identifiers (P01–P06) are anonymized and do not correspond to any personally identifiable information)
 - White noise was generated using Audacity and delivered through headphones.
 - Participants were instructed to imagine a listener positioned approximately 5 meters away and to repeatedly vocalize the utterance *“ohho”* for 20 seconds per condition.
 - Noise levels were presented in randomized order to reduce order effects.

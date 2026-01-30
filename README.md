@@ -57,9 +57,9 @@ The analysis includes:
 
 Key scripts include:
 
-- `analysis/spl_analysis.py` – SPL extraction and preprocessing  
-- `analysis/baseline_corrected_analysis.py` – Baseline normalization and visualization  
-- `analysis/pitch_analysis.py` – Exploratory pitch analysis  
+- `analysis/decibel_level.py` – SPL extraction and preprocessing  
+- `analysis/relative_dBlevel.py` – Baseline normalization and visualization  
+- `analysis/pitch.py` – Exploratory pitch analysis  
 
 ---
 

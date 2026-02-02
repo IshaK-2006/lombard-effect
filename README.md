@@ -99,6 +99,7 @@ Potential extensions include increasing participant numbers, stratifying subject
 - Python
 - pandas
 - matplotlib
+- PyTorch (for the ML regression model)
 - Audacity (used during data acquisition only)
 
 ---
@@ -106,3 +107,16 @@ Potential extensions include increasing participant numbers, stratifying subject
 ## Project Status
 
 Completed as an exploratory and educational project demonstrating experimental acoustics, ethical data handling, and reproducible analysis.
+
+- Added a PDF file in the `results` folder that explains the regression graphs, including model predictions, feature effects, and visualization of the Lombard effect.
+- Provides detailed insights into the Machine Learning extension and how the model predicts baseline-normalized vocal intensity (ΔSPL).
+
+
+## Machine Learning Extension
+
+- Added a **Machine Learning module**: a multivariate regression model implemented in **PyTorch** to predict **baseline-normalized vocal intensity (ΔSPL)** based on **environmental noise level** and **speaker identity**.
+- Demonstrates **feature engineering**, **normalization-aware modeling**, and **supervised learning** applied to experimental acoustic data.
+-  Added a PDF file in the `results` folder that explains the regression graphs, including model predictions, feature effects, and visualization of the Lombard effect.
+- Provides detailed insights into the Machine Learning extension and how the model predicts baseline-normalized vocal intensity (ΔSPL).
+- Provides a foundation for exploring the Lombard effect with predictive modeling and potential applications in **speech enhancement** and **voice-controlled systems**.
+
